@@ -18,3 +18,5 @@ def test(a, b):                     # Defining a Procedure
 	return (' '.join(list))         # returning empty list as a string
 	
 print (test(a, b))
+
+# CODED BY - GAURAV PADAWE
